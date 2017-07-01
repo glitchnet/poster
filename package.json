@@ -1,0 +1,28 @@
+{
+  "name": "poster",
+  "version": "0.0.1",
+  "description": "n/a",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+    "ws": "^2.3.1"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "hot",
+    "pink",
+    "fucks"
+  ]
+}
